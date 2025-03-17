@@ -1,7 +1,7 @@
 # 🚀 Booster - Mejora tu Experiencia en Juegos en Línea 🎮  
 
 ## 📝 Descripción  
-Booster es una plataforma diseñada para optimizar el rendimiento en juegos en línea. Reduce la latencia, mejora la estabilidad de la conexión y maximiza la velocidad de respuesta para ofrecer una experiencia de juego más fluida y sin interrupciones.  
+Booster es una plataforma diseñada para optimizar el rendimiento en juegos en línea. Reduce la latencia, mejora la estabilidad de la conexión y maximiza la velocidad de respuesta para ofrecer una experiencia de juego más fluida y sin interrupciones.Tambien se esta adjuntado el link de la pagina : https://flavio-fr.github.io/Caso2-part-2/  
 
 ## 🌟 Características  
 ✅ **Reducción de Latencia:** Minimiza el ping y mejora la velocidad de conexión.  
