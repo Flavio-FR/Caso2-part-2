@@ -26,6 +26,5 @@ https://github.com/Flavio-FR/Caso2-part-2
 # Ingresar al directorio del proyecto
 https://github.com/Flavio-FR/Caso2-part-2
 
-# Ingresar al link de la pagina 
 
 
