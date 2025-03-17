@@ -13,7 +13,7 @@ Booster es una plataforma diseñada para optimizar el rendimiento en juegos en l
 ## 🛠️ Tecnologías Utilizadas  
 - 🏗️ **HTML5**  
 - 🎨 **CSS3**  
-- ⚡ **JavaScript**  
+- ⚡ **JavaScript**
 
 ## 📥 Instalación, 🖥️ Uso y 👤 Autor  
 ```bash
